@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "df86BmipLwEjjpaxI6JF4o",
+    "name" : "2000_assets",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-01-12T03:00:38.779Z",
+  "objectRefs" : [ ]
+}
